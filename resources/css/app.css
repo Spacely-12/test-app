@@ -1,0 +1,61 @@
+
+/* Add this CSS snippet to your styles.css file */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 23px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type:none ;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+.dashboard {
+    margin: 20px;
+}
+
+.dashboard h2 {
+    color: #333;
+}
+
+.dashboard .card {
+    margin-bottom: 20px;
+}
+
+.card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card-title {
+    color: #333;
+}
+
+.card-text {
+    color: #666;
+}
